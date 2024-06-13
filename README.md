@@ -15,7 +15,7 @@ being a quick learner.</p>
 ### Education
 
 <p align="left">
-- **2021 - Present**  
+- **2021 - 2024**  
   Diplomirani inženir informatike in tehnologij komuniciranja (VS)  
   Fakulteta za elektrotehniko, računalništvo in informatiko FERI
 
