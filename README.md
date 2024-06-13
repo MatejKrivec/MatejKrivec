@@ -53,6 +53,7 @@ being a quick learner.</p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mvc/mvc-original.svg" height="40" alt="MVC logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_.NET_logo.svg" height="40" alt="WPF logo" />
   </div>
   
   <!-- Other -->
@@ -69,10 +70,7 @@ being a quick learner.</p>
     <img src="https://jwt.io/img/logo-asset.svg" height="40" alt="jwt logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original-wordmark.svg" height="40" alt="swagger logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" />
-    <img src="https://raw.githubusercontent.com/reduxjs/redux-toolkit/master/logo/logo.svg" height="40" alt="redux toolkit logo" />
-    <img src="https://raw.githubusercontent.com/reduxjs/redux-toolkit/master/logo/logo.svg" height="40" alt="rtk query logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wpf/wpf-original.svg" height="40" alt="WPF logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webapi/webapi-original.svg" height="40" alt="Web API logo" />
+  
   </div>
 </div>
 
