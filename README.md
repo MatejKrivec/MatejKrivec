@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780738440/58BeZKIl2.gif?w=1200&auto=format,compress&gif-q=60&format=webm&fm=png)](https://linkedin.com/in/matej krivec)
+[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780738440/58BeZKIl2.gif?w=1200&auto=format,compress&gif-q=60&format=webm&fm=png)]
 
 <h1 align="center">Hi 👋, I'm Matej</h1>
 <h3 align="center">A FullStack developer from Slovenia</h3>
@@ -83,10 +83,19 @@ being a quick learner.</p>
 <br/>
 <br/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matejkrivec" alt="matejkrivec" /></a> </p>
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matejkrivec&show_icons=true&locale=en" alt="matejkrivec" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matejkrivec&show_icons=true&locale=en&layout=compact" alt="matejkrivec" /></p>
+<!-- Top Languages Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matejkrivec&layout=compact" alt="matejkrivec" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matejkrivec&show_icons=true&locale=en" alt="matejkrivec" /></p>
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matejkrivec" alt="matejkrivec" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matejkrivec&" alt="matejkrivec" /></p>
+<p align=""center>We cannot solve our problems with the same level of thinking that created them. 🚀🧠</p>
