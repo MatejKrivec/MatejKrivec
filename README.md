@@ -1,13 +1,25 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780738440/58BeZKIl2.gif?w=1200&auto=format,compress&gif-q=60&format=webm&fm=png)]
+[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780738440/58BeZKIl2.gif?w=1200&auto=format,compress&gif-q=60&format=webm&fm=png)](https://linkedin.com/in/matej krivec)
+
 <h1 align="center">Hi 👋, I'm Matej</h1>
-<h3 align="center">A FullStack develloper from Slovenia</h3>
+<h3 align="center">A FullStack developer from Slovenia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/matej krivec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matej krivec" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/matej krivec" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matej krivec" height="30" width="40" /></a>
 </p>
+
+### Education
+
+- **2021 - Present**  
+  Diplomirani inženir informatike in tehnologij komuniciranja (VS)  
+  Fakulteta za elektrotehniko, računalništvo in informatiko FERI
+
+- **2016 - 2021**  
+  Tehnik mehatronike  
+  Elektro in računalniška šola, Šolski center Velenje
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
