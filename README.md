@@ -28,6 +28,8 @@ being a quick learner.</p>
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
