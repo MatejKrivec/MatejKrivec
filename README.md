@@ -5,13 +5,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/matej krivec" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matej krivec" height="30" width="40" /></a>
-</p>
-
 ### Education
 
+<p align="left">
 - **2021 - Present**  
   Diplomirani inženir informatike in tehnologij komuniciranja (VS)  
   Fakulteta za elektrotehniko, računalništvo in informatiko FERI
@@ -19,10 +15,10 @@
 - **2016 - 2021**  
   Tehnik mehatronike  
   Elektro in računalniška šola, Šolski center Velenje
+</p>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+<h3 align="center">Languages and Tools:</h3>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <!-- Frontend -->
   <div>
     <h4>Frontend:</h4>
@@ -67,7 +63,10 @@
   </div>
 </div>
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/matej krivec" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matej krivec" height="30" width="40" /></a>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matejkrivec" alt="matejkrivec" /></a> </p>
 
