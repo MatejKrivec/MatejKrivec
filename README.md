@@ -15,11 +15,11 @@ being a quick learner.</p>
 ### Education
 
 <p align="left">
- **2021 - 2024**  
+ 2021 - 2024  
   Diplomirani inženir informatike in tehnologij komuniciranja (VS)  
   Fakulteta za elektrotehniko, računalništvo in informatiko FERI
 
- **2016 - 2021**  
+ 2016 - 2021
   Tehnik mehatronike  
   Elektro in računalniška šola, Šolski center Velenje
 </p>
