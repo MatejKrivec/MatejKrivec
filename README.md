@@ -79,12 +79,8 @@ infuse each moment with a profound sense of purpose and meaningfulness.</p>
 </div>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/matejkrivec" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #0077B5; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer;">
-      LinkedIn
-    </button>
-  </a>
+<p align="center" style="font-size: 20px;">
+  [ <a href="https://linkedin.com/in/matejkrivec" target="_blank" style="text-decoration: none; color: #0077B5;">LinkedIn</a> ]
 </p>
 
 <br/>
