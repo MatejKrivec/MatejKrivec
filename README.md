@@ -7,7 +7,9 @@
 of informatics and communications sciences at FERI Maribor, and I am finishing my third year of college.
 I enjoy engaging in various sports activities and taking a keen interest in the world of programming. I
 am a naturally curious and motivated individual, always eager to learn new skills, and I pride myself on
-being a quick learner.</p>
+being a quick learner. These
+qualities not only shape my flexible and curious outlook on life but also
+infuse each moment with a profound sense of purpose and meaningfulness.</p>
 
 <div>
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
