@@ -80,10 +80,11 @@ infuse each moment with a profound sense of purpose and meaningfulness.</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/matej-krivec-7014772a5/" target="_blank" style="text-decoration: none; display: inline-block; background-color: lightblue; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px;">
+  <a href="https://www.linkedin.com/in/matej-krivec-7014772a5/" target="_blank" style="text-decoration: none; display: inline-block; background-color: #0077B5; color: white; padding: 10px 20px; font-size: 16px; border-radius: 5px;">
     LinkedIn
   </a>
 </p>
+
 
 <br/>
 <br/>
