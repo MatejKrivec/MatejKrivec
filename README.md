@@ -37,7 +37,7 @@ infuse each moment with a profound sense of purpose and meaningfulness.</p>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <!-- Frontend -->
   <div>
-    
+    <h1/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
@@ -50,7 +50,7 @@ infuse each moment with a profound sense of purpose and meaningfulness.</p>
   
   <!-- Backend -->
   <div>
-    
+    <h1/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
@@ -62,7 +62,7 @@ infuse each moment with a profound sense of purpose and meaningfulness.</p>
   
   <!-- Other -->
   <div>
-    
+    <h1/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazon s3 logo" />
