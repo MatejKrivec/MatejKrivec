@@ -104,4 +104,4 @@ infuse each moment with a profound sense of purpose and meaningfulness.</p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matejkrivec" alt="matejkrivec" />
 </p>
 
-<p align="center">We cannot solve our problems with the same level of thinking that created them. 🚀🧠</p>
+<p align="center">...</p>
