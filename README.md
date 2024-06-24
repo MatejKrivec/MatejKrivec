@@ -37,7 +37,7 @@ infuse each moment with a profound sense of purpose and meaningfulness.</p>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <!-- Frontend -->
   <div>
-    <h4>Frontend:</h4>
+    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
@@ -50,19 +50,19 @@ infuse each moment with a profound sense of purpose and meaningfulness.</p>
   
   <!-- Backend -->
   <div>
-    <h4>Backend:</h4>
+    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mvc/mvc-original.svg" height="40" alt="MVC logo" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_.NET_logo.svg" height="40" alt="WPF logo" />
+    <img src="https://miro.medium.com/v2/resize:fit:375/1*GQ3Y3hoBqEylWpW4ZX9lHw.png" height="40" alt="MVC logo" />
+    <img src="https://inapp.com/wp-content/uploads/2023/01/wpf-logo-175.png" height="40" alt="WPF logo" />
   </div>
   
   <!-- Other -->
   <div>
-    <h4>Other:</h4>
+    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazon s3 logo" />
