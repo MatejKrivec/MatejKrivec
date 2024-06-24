@@ -17,6 +17,10 @@ infuse each moment with a profound sense of purpose and meaningfulness.</p>
 ### Education
 
 <p align="left">
+ -2024  
+  <br/>
+   SkillUp Mentor
+  
  2021 - 2024  
   Diplomirani inženir informatike in tehnologij komuniciranja (VS)  
   Fakulteta za elektrotehniko, računalništvo in informatiko FERI
