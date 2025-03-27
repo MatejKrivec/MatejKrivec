@@ -1,12 +1,5 @@
-<div>
-  <img 
-    align="center"
-    alt="MasterHead"
-    width="100%" <!-- This makes the image span the full width -->
-    src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780738440/58BeZKIl2.gif?w=1200&auto=format,compress&gif-q=60&format=webm&fm=png"
-    style="max-width: 100%; height: auto;" <!-- Ensures the image maintains aspect ratio -->
-  >
-</div>
+[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780738440/58BeZKIl2.gif?w=1200&auto=format,compress&gif-q=60&format=webm&fm=png)]
+
 <h1 align="center">Hi 👋, I'm Matej</h1>
 <h3 align="center">A FullStack developer from Slovenia</h3>
 
