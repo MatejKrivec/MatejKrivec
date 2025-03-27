@@ -1,5 +1,6 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780738440/58BeZKIl2.gif?w=1200&auto=format,compress&gif-q=60&format=webm&fm=png)]
-
+<p align="center">
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780738440/58BeZKIl2.gif?w=1200&auto=format,compress&gif-q=60&format=webm&fm=png" style="width: 100%;" alt="MasterHead">
+</p>
 <h1 align="center">Hi 👋, I'm Matej</h1>
 <h3 align="center">A FullStack developer from Slovenia</h3>
 
